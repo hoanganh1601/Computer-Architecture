@@ -24,6 +24,7 @@ To run these files, you will need an 8086 microprocessor emulator. This project 
 2. Select **Download ZIP** and extract the folder to your computer, or clone the repository using Git:
 ```bash
    git clone [https://github.com/hoanganh1601/Computer-Architecture.git](https://github.com/hoanganh1601/Computer-Architecture.git)
+```
 
 **Step 2: Install EMU8086**
 1. Download the EMU8086 software from your course materials or a trusted educational source.
